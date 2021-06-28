@@ -2,6 +2,10 @@
 
 A Quasar Framework app
 
+## Preview
+
+https://www.webconxept.com/apps/quasar-x2-json-tools
+
 ## Challenges
 
 ### 1. Synching a JSON object with Quasar Table
