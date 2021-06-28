@@ -2,7 +2,7 @@
   "name": "quasar-x2-json-tools",
   "version": "0.0.1",
   "description": "A Quasar Framework app",
-  "productName": "Quasar App",
+  "productName": "Json Tools",
   "author": "",
   "private": true,
   "scripts": {
