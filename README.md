@@ -2,6 +2,8 @@
 
 A Quasar Framework app
 
+Used a technique to build your own markdown parser implemented in this app.
+
 ## Preview
 
 https://www.webconxept.com/apps/quasar-x2-json-tools
