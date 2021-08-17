@@ -1,3 +1,6 @@
+<!--
+- Follows the guide from https://randyperkins2k.medium.com/writing-a-simple-markdown-parser-using-javascript-1f2e9449a558
+-->
 <template>
 <q-dialog v-model="showModal">
   <q-card bordered dark style="min-width: 500px" class="q-pa-md">
